@@ -1,2 +1,1 @@
-# Diabetes-prediction
-dataset to predict diabetes
+Personal projects 
